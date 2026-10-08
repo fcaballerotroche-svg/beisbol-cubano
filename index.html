@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Béisbol Cubano | Portal en Vivo</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    :root {
+      --bg: #0b1329;
+      --card-bg: rgba(18, 30, 58, 0.85);
+      --accent-red: #d32f2f;
+      --accent-blue: #0288d1;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: rgba(255, 255, 255, 0.1);
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; }
+    body { background: var(--bg); color: var(--text); min-height: 100vh; display: flex; flex-direction: column; }
+    header { background: rgba(11, 19, 41, 0.95); backdrop-filter: blur(10px); border-bottom: 1px solid var(--border); padding: 1rem 2rem; position: sticky; top: 0; z-index: 50; display: flex; justify-content: space-between; align-items: center; }
+    .brand { font-size: 1.4rem; font-weight: 800; display: flex; align-items: center; gap: 0.5rem; }
+    .brand span { color: var(--accent-red); }
+    .status-badge { display: flex; align-items: center; gap: 0.5rem; background: rgba(16, 185, 129, 0.15); color: #10b981; padding: 0.35rem 0.85rem; border-radius: 999px; font-size: 0.85rem; font-weight: 600; }
+    .dot { width: 8px; height: 8px; background: #10b981; border-radius: 50%; animation: pulse 1.5s infinite; }
+    @keyframes pulse { 0%, 100% { opacity: 1; transform: scale(1); } 50% { opacity: 0.4; transform: scale(0.85); } }
+    main { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; width: 100%; flex: 1; }
+    .hero { text-align: center; margin-bottom: 2.5rem; }
+    .hero h1 { font-size: 2.2rem; margin-bottom: 0.5rem; }
+    .hero p { color: var(--text-muted); font-size: 1rem; }
+    .section-title { font-size: 1.25rem; font-weight: 700; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+    .grid-games { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; margin-bottom: 3rem; }
+    .game-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: 12px; padding: 1.25rem; backdrop-filter: blur(8px); transition: transform 0.2s; }
+    .game-card:hover { transform: translateY(-3px); border-color: rgba(2, 136, 209, 0.4); }
+    .game-body { font-size: 0.95rem; line-height: 1.5; color: #e2e8f0; }
+    .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+    .gallery-item { background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px; padding: 0.75rem; text-align: center; }
+    .gallery-item img { max-width: 80px; max-height: 80px; object-fit: contain; margin-bottom: 0.5rem; }
+    .gallery-item span { font-size: 0.75rem; color: var(--text-muted); display: block; word-break: break-all; }
+    footer { text-align: center; padding: 1.5rem; border-top: 1px solid var(--border); color: var(--text-muted); font-size: 0.85rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand"><i class="fa-solid fa-baseball-bat-ball" style="color: var(--accent-red);"></i> BÉISBOL <span>CUBA</span></div>
+    <div class="status-badge"><span class="dot"></span> En Directo</div>
+  </header>
+
+  <main>
+    <div class="hero">
+      <h1>Serie Nacional de Béisbol</h1>
+      <p>Marcadores oficiales sincronizados automáticamente en tiempo real</p>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-calendar-day"></i> Marcadores y Calendario Oficial</div>
+    <div class="grid-games" id="games-container">
+      <div style="color: var(--text-muted); font-size: 0.9rem;">Cargando partidos...</div>
+    </div>
+
+    <div class="section-title"><i class="fa-solid fa-shield-halved"></i> Equipos y Recursos Oficiales</div>
+    <div class="gallery" id="logos-container">
+      <div style="color: var(--text-muted); font-size: 0.9rem;">Cargando escudos...</div>
+    </div>
+  </main>
+
+  <footer>
+    Datos oficiales sincronizados automáticamente con el sitio oficial de la SNB.
+  </footer>
+
+  <script>
+    async function cargarDatos() {
+      try {
+        const res = await fetch('datos.json?t=' + new Date().getTime());
+        const data = await res.json();
+
+        const gamesEl = document.getElementById('games-container');
+        if (data.juegos && data.juegos.length > 0) {
+          gamesEl.innerHTML = data.juegos.map(j => `
+            <div class="game-card">
+              <div class="game-body">${j}</div>
+            </div>
+          `).join('');
+        } else {
+          gamesEl.innerHTML = '<div style="color: var(--text-muted);">No hay partidos registrados en este momento.</div>';
+        }
+
+        const logosEl = document.getElementById('logos-container');
+        if (data.logos && data.logos.length > 0) {
+          logosEl.innerHTML = data.logos.map(l => `
+            <div class="gallery-item">
+              <img src="${l.url}" alt="${l.alt}" loading="lazy">
+              <span>${l.alt || 'Oficial'}</span>
+            </div>
+          `).join('');
+        }
+      } catch (err) {
+        console.error("Error al cargar datos:", err);
+      }
+    }
+
+    cargarDatos();
+    setInterval(cargarDatos, 60000);
+  </script>
+</body>
+</html>
