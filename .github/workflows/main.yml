@@ -1,0 +1,33 @@
+name: Sincronizar Beisbol
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar librerías
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Ejecutar scraper
+        run: python scraper.py
+
+      - name: Guardar cambios
+        run: |
+          git config --global user.name "Bot Beisbol"
+          git config --global user.email "bot@beisbol.cubano"
+          git add datos.json
+          git commit -m "Actualizacion automatica" || exit 0
+          git push
