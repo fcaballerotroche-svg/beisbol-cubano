@@ -161,14 +161,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "Mayabeque",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MAY.png"
     },
@@ -259,6 +251,14 @@
     {
       "alt": "ScoreBoard",
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Abrir Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
+      "alt": "Cerrar Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "Isla De La Juventud",
@@ -478,15 +478,15 @@
     },
     {
       "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/MAY.png"
+    },
+    {
+      "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/ART.png"
     },
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/CFG.png"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/MAY.png"
     },
     {
       "alt": "",
