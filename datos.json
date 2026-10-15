@@ -161,14 +161,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "Industriales",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IND.png"
     },
@@ -179,14 +171,6 @@
     {
       "alt": "ScoreBoard",
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "Cienfuegos",
@@ -201,14 +185,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "Ciego de Avila",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CAV.png"
     },
@@ -219,14 +195,6 @@
     {
       "alt": "ScoreBoard",
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "Las Tunas",
@@ -458,6 +426,10 @@
     },
     {
       "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/00%20Vacio%201.jpg"
+    },
+    {
+      "alt": "",
       "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/9302.jpg"
     },
     {
@@ -470,19 +442,19 @@
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/CFG.png"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/IND.png"
-    },
-    {
-      "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/MAY.png"
     },
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/ART.png"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/CFG.png"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/IND.png"
     },
     {
       "alt": "",
@@ -498,6 +470,10 @@
     },
     {
       "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/SSP.png"
+    },
+    {
+      "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/CAV.png"
     },
     {
@@ -507,10 +483,6 @@
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/HOL.png"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/SSP.png"
     },
     {
       "alt": "",
