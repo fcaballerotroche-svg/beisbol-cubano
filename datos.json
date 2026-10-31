@@ -197,6 +197,26 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
+      "alt": "Abrir Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
+      "alt": "Cerrar Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
+      "alt": "Granma",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
+    },
+    {
+      "alt": "Guantánamo",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GTM.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
       "alt": "Pinar del Río",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/PRI.png"
     },
@@ -207,14 +227,6 @@
     {
       "alt": "ScoreBoard",
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "Las Tunas",
@@ -235,18 +247,6 @@
     {
       "alt": "Cerrar Transmisión por Radio",
       "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Granma",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
-    },
-    {
-      "alt": "Guantánamo",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GTM.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
       "alt": "Cienfuegos",
@@ -279,14 +279,6 @@
     {
       "alt": "ScoreBoard",
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "Ciego de Avila",
@@ -338,15 +330,15 @@
     },
     {
       "alt": "",
+      "url": "https://www.beisbolcubano.cu../images/medios/gtm-radio.jpg"
+    },
+    {
+      "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/ijv-radio.jpg"
     },
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/ssp-radio.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/gtm-radio.jpg"
     },
     {
       "alt": "",
@@ -486,7 +478,11 @@
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/5944.jpg"
+      "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/9942.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/5099.jpg"
     },
     {
       "alt": "",
