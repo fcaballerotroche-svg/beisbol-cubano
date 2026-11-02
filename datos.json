@@ -149,60 +149,12 @@
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/gtm.png"
     },
     {
-      "alt": "Industriales",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IND.png"
-    },
-    {
       "alt": "Artemisa",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/ART.png"
     },
     {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
       "alt": "Matanzas",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MTZ.png"
-    },
-    {
-      "alt": "Mayabeque",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MAY.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Cienfuegos",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CFG.png"
-    },
-    {
-      "alt": "Villa Clara",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Las Tunas",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/LTU.png"
-    },
-    {
-      "alt": "Sancti Spíritus",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Ciego de Avila",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CAV.png"
-    },
-    {
-      "alt": "Camagüey",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CMG.png"
     },
     {
       "alt": "ScoreBoard",
@@ -213,8 +165,44 @@
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/HOL.png"
     },
     {
+      "alt": "Ciego de Avila",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CAV.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Mayabeque",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MAY.png"
+    },
+    {
+      "alt": "Pinar del Río",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/PRI.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Isla De La Juventud",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IJV.png"
+    },
+    {
+      "alt": "Cienfuegos",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CFG.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
       "alt": "Santiago De Cuba",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SCU.png"
+    },
+    {
+      "alt": "Camagüey",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CMG.png"
     },
     {
       "alt": "ScoreBoard",
@@ -225,8 +213,32 @@
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
     },
     {
+      "alt": "Sancti Spíritus",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Villa Clara",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
+    },
+    {
+      "alt": "Industriales",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IND.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
       "alt": "Guantánamo",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GTM.png"
+    },
+    {
+      "alt": "Las Tunas",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/LTU.png"
     },
     {
       "alt": "ScoreBoard",
@@ -234,19 +246,19 @@
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/art-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/mtz-radio.jpg"
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/may-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/cav-radio.jpg"
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/vcl-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/pri-radio.jpg"
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/ssp-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/cfg-radio.jpg"
     },
     {
       "alt": "",
@@ -254,19 +266,23 @@
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/scu-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/ssp-radio.jpg"
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/gtm-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/ind-radio.jpg"
     },
     {
-      "alt": "Pinar del Río",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/PRI.png"
+      "alt": "",
+      "url": "https://www.beisbolcubano.cu../images/medios/ltu-radio.jpg"
     },
     {
-      "alt": "Isla De La Juventud",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IJV.png"
+      "alt": "Industriales",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IND.png"
+    },
+    {
+      "alt": "Artemisa",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/ART.png"
     },
     {
       "alt": "ScoreBoard",
@@ -279,6 +295,30 @@
     {
       "alt": "Mayabeque",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MAY.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Cienfuegos",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CFG.png"
+    },
+    {
+      "alt": "Villa Clara",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Las Tunas",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/LTU.png"
+    },
+    {
+      "alt": "Sancti Spíritus",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
     },
     {
       "alt": "ScoreBoard",
@@ -321,76 +361,8 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Pinar del Río",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/PRI.png"
-    },
-    {
-      "alt": "Isla De La Juventud",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IJV.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Cienfuegos",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CFG.png"
-    },
-    {
-      "alt": "Villa Clara",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Las Tunas",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/LTU.png"
-    },
-    {
-      "alt": "Sancti Spíritus",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Matanzas",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MTZ.png"
-    },
-    {
-      "alt": "Mayabeque",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MAY.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Ciego de Avila",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CAV.png"
-    },
-    {
-      "alt": "Camagüey",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CMG.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Industriales",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IND.png"
-    },
-    {
-      "alt": "Artemisa",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/ART.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+      "alt": "",
+      "url": "https://www.jit.cu/wp-content/uploads/2026/10/Pinar-del-Rio-3-scaled.jpg"
     },
     {
       "alt": "",
@@ -399,10 +371,6 @@
     {
       "alt": "",
       "url": "https://www.jit.cu/wp-content/uploads/2026/10/Henry-Quintero-03-scaled.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.jit.cu/wp-content/uploads/2026/10/K-20261031_1594-scaled.jpg"
     },
     {
       "alt": "SNB",
