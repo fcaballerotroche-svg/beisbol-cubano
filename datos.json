@@ -161,14 +161,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "Villa Clara",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
     },
@@ -181,12 +173,16 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+      "alt": "Artemisa",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/ART.png"
     },
     {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+      "alt": "Matanzas",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MTZ.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
       "alt": "Isla De La Juventud",
@@ -201,12 +197,16 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+      "alt": "Granma",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
     },
     {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+      "alt": "Sancti Spíritus",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
       "alt": "Holguín",
@@ -241,14 +241,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "Guantánamo",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GTM.png"
     },
@@ -261,54 +253,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Artemisa",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/ART.png"
-    },
-    {
-      "alt": "Matanzas",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/MTZ.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Granma",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
-    },
-    {
-      "alt": "Sancti Spíritus",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/pri-radio.jpg"
     },
@@ -318,7 +262,15 @@
     },
     {
       "alt": "",
+      "url": "https://www.beisbolcubano.cu../images/medios/mtz-radio.jpg"
+    },
+    {
+      "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/cfg-radio.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cu../images/medios/ssp-radio.jpg"
     },
     {
       "alt": "",
@@ -331,14 +283,6 @@
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/ltu-radio.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/mtz-radio.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/ssp-radio.jpg"
     },
     {
       "alt": "Industriales",
@@ -426,15 +370,15 @@
     },
     {
       "alt": "",
+      "url": "https://www.jit.cu/wp-content/uploads/2026/11/K-20261103_1518-scaled.jpg"
+    },
+    {
+      "alt": "",
       "url": "https://www.jit.cu/wp-content/uploads/2026/11/K-20261102_0696-scaled.jpg"
     },
     {
       "alt": "",
       "url": "https://www.jit.cu/wp-content/uploads/2026/10/Pinar-del-Rio-3-scaled.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.jit.cu/wp-content/uploads/2026/11/K-20261101_0496-scaled.jpg"
     },
     {
       "alt": "",
@@ -475,6 +419,10 @@
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/6028.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/PELOTERO%20SNB/5378.jpg"
     },
     {
       "alt": "",
