@@ -197,14 +197,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
       "alt": "Holguín",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/HOL.png"
     },
@@ -251,14 +243,6 @@
     {
       "alt": "ScoreBoard",
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
-      "alt": "Abrir Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
-    },
-    {
-      "alt": "Cerrar Transmisión por Radio",
-      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "",
@@ -510,19 +494,19 @@
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/HOL.png"
-    },
-    {
-      "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/SCU.png"
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/GRA.png"
+      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/HOL.png"
     },
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/CAV.png"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/GRA.png"
     },
     {
       "alt": "",
