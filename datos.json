@@ -149,6 +149,26 @@
       "url": "https://www.beisbolcubano.cuimages/logos/24%20x%2024/gtm.png"
     },
     {
+      "alt": "Ciego de Avila",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CAV.png"
+    },
+    {
+      "alt": "Granma",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+    },
+    {
+      "alt": "Abrir Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
+      "alt": "Cerrar Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
       "alt": "Industriales",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IND.png"
     },
@@ -197,18 +217,6 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Ciego de Avila",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/CAV.png"
-    },
-    {
-      "alt": "Granma",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/GRA.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
-    },
-    {
       "alt": "Sancti Spíritus",
       "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/SSP.png"
     },
@@ -245,6 +253,18 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
+      "alt": "Abrir Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
+      "alt": "Cerrar Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cu../images/medios/gra-radio.jpg"
+    },
+    {
       "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/cfg-radio.jpg"
     },
@@ -259,10 +279,6 @@
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/gtm-radio.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/gra-radio.jpg"
     },
     {
       "alt": "",
