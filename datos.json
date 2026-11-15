@@ -161,16 +161,12 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "Isla De La Juventud",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IJV.png"
+      "alt": "Abrir Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
-      "alt": "Villa Clara",
-      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
-    },
-    {
-      "alt": "ScoreBoard",
-      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
+      "alt": "Cerrar Transmisión por Radio",
+      "url": "https://www.beisbolcubano.cuimages/logos/Audio_2.png"
     },
     {
       "alt": "Granma",
@@ -257,12 +253,20 @@
       "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
-      "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/cav-radio.jpg"
+      "alt": "Isla De La Juventud",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/IJV.png"
+    },
+    {
+      "alt": "Villa Clara",
+      "url": "https://www.beisbolcubano.cuimages/logos/45%20x%2045/VCL.png"
+    },
+    {
+      "alt": "ScoreBoard",
+      "url": "https://www.beisbolcubano.cuimages/logos/BoxScore.png"
     },
     {
       "alt": "",
-      "url": "https://www.beisbolcubano.cu../images/medios/vcl-radio.jpg"
+      "url": "https://www.beisbolcubano.cu../images/medios/cav-radio.jpg"
     },
     {
       "alt": "",
@@ -291,6 +295,10 @@
     {
       "alt": "",
       "url": "https://www.beisbolcubano.cu../images/medios/ind-radio.jpg"
+    },
+    {
+      "alt": "",
+      "url": "https://www.beisbolcubano.cu../images/medios/vcl-radio.jpg"
     },
     {
       "alt": "Isla De La Juventud",
@@ -402,15 +410,15 @@
     },
     {
       "alt": "",
+      "url": "https://www.jit.cu/wp-content/uploads/2026/11/IMG-20261114-WA0017.jpg"
+    },
+    {
+      "alt": "",
       "url": "https://www.jit.cu/wp-content/uploads/2026/11/IMG-20261113-WA0013.jpg"
     },
     {
       "alt": "",
       "url": "https://www.jit.cu/wp-content/uploads/2026/11/IMG-20261112-WA0029.jpg"
-    },
-    {
-      "alt": "",
-      "url": "https://www.jit.cu/wp-content/uploads/2026/11/denis-laza.jpg"
     },
     {
       "alt": "SNB",
